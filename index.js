@@ -29,5 +29,5 @@ function shout(string) {
       return "I would love to!";
     }}
 
-    console.log(sayHiToHeadphonedRoommate("Let's have dinner together!"));
+    
  
